@@ -1,0 +1,4 @@
+This is the title, isn't it?
+This is a text file. It usually hosts text characters, sometimes numbers 1234567890.
+
+Text files also store special characters :-) but it is usually limited due to the need for interpreters.
