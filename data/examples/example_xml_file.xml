@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark id="1.2.1">
+	<name>Carrer de Pujades, 102</name>
+	<address>Carrer de Pujades, 102, 08005 Barcelona</address>
+	<snippet>Carrer de Pujades, 102, 08005 Barcelona</snippet>
+	<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.396659299999996&lng=2.1944287000000005&fid=0x12a4a31760a3c4d3:0x3488029b370f2ae8&hl=en&gl=es&client=earth-client&cv=7.3.2.5776&useragent=GoogleEarth/7.3.2.5776(X11;Linux (5.0.0.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+	<styleUrl>#geocode</styleUrl>
+	<ExtendedData>
+		<Data name="placepageUri">
+			<value>https://www.google.com/earth/rpc/entity?lat=41.396659299999996&amp;lng=2.1944287000000005&amp;fid=0x12a4a31760a3c4d3:0x3488029b370f2ae8&amp;hl=en&amp;gl=es&amp;client=earth-client&amp;cv=7.3.2.5776&amp;useragent=GoogleEarth/7.3.2.5776(X11;Linux (5.0.0.0);en;kml:2.2;client:Pro;type:default)</value>
+		</Data>
+	</ExtendedData>
+	<MultiGeometry>
+		<Point>
+			<coordinates>2.1944287,41.3966593,0</coordinates>
+		</Point>
+		<LinearRing>
+			<coordinates>
+				2,191146512923141,41 3941976596924,0,0 2,191146512923141,41 3991209403076,0,0 2,197710887076859,41 3991209403076,0,0 2,197710887076859,41 3941976596924,0,0 2,191146512923141,41 3941976596924,0,0 
+			</coordinates>
+		</LinearRing>
+	</MultiGeometry>
+</Placemark>
+</kml>

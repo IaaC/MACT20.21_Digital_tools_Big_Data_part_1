@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IAAC main building",
+        "address": "Carrer de Pujades 102",
+        "postal_code": 08005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1932315826416016,
+          41.395747068298895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IAAC atelier",
+        "address": "Carrer de Pujades 59",
+        "postal_code": 08005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1919387578964233,
+          41.39522593585012
+        ]
+      }
+    }
+  ]
+}
