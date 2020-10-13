@@ -1,0 +1,256 @@
+aaaa bbbb
+ccc
+Open data
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+Open data map
+
+Linked open data cloud in August 2014
+
+Clear labeling of the licensing terms is a key component of open data, and icons like the one pictured here are being used for that purpose.
+Open data is the idea that some data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control.[1] The goals of the open-source data movement are similar to those of other "open(-source)" movements such as open-source software, hardware, open content, open education, open educational resources, open government, open knowledge, open access, open science, and the open web. Paradoxically, the growth of the open data movement is paralleled by a rise in intellectual property rights.[2] The philosophy behind open data has been long established (for example in the Mertonian tradition of science), but the term "open data" itself is recent, gaining popularity with the rise of the Internet and World Wide Web and, especially, with the launch of open-data government initiatives such as Data.gov, Data.gov.uk and Data.gov.in.
+
+Open data can also be linked data; when it is, it is linked open data. One of the most important forms of open data is open government data (OGD), which is a form of open data created by ruling government institutions. Open government data's importance is borne from it being a part of citizens' everyday lives, down to the most routine/mundane tasks that are seemingly far removed from government.
+
+
+Contents
+1	Overview
+2	Major sources
+2.1	In science
+2.2	In government
+3	Arguments for and against
+4	Relation to other open activities
+5	Funders' mandates
+6	Non-Open data
+7	See also
+8	References
+9	External links
+Overview
+The concept of open data is not new, but a formalized definition is relatively new. Conceptually, open data as a phenomenon denotes that governmental data should be available to anyone with a possibility of redistribution in any form without any copyright restriction.[3] One more definition is the Open Definition which can be summarized in the statement that "A piece of data is open if anyone is free to use, reuse, and redistribute it – subject only, at most, to the requirement to attribute and/or share-alike."[4] Other definitions, including the Open Data Institute's "Open data is data that anyone can access, use or share", have an accessible short version of the definition but refer to the formal definition.
+
+Open data may include non-textual material such as maps, genomes, connectomes, chemical compounds, mathematical and scientific formulae, medical data, and practice, bioscience and biodiversity. Problems often arise because these are commercially valuable or can be aggregated into works of value. Access to, or re-use of, the data is controlled by organisations, both public and private. Control may be through access restrictions, licenses, copyright, patents and charges for access or re-use. Advocates of open data argue that these restrictions are against the common good and that these data should be made available without restriction or fee. In addition, it is important that the data are re-usable without requiring further permission, though the types of re-use (such as the creation of derivative works) may be controlled by a license.
+
+A typical depiction of the need for open data:
+
+Numerous scientists have pointed out the irony that right at the historical moment when we have the technologies to permit worldwide availability and distributed process of scientific data, broadening collaboration and accelerating the pace and depth of discovery ... we are busy locking up that data and preventing the use of correspondingly advanced technologies on knowledge.
+
+— John Wilbanks, VP Science, Creative Commons[5]
+Creators of data often do not consider the need to state the conditions of ownership, licensing and re-use; instead presuming that not asserting copyright puts the data into the public domain. For example, many scientists do not regard the published data arising from their work to be theirs to control and consider the act of publication in a journal to be an implicit release of data into the commons. However, the lack of a license makes it difficult to determine the status of a data set and may restrict the use of data offered in an "Open" spirit. Because of this uncertainty it is also possible for public or private organizations to aggregate said data, protect it with copyright and then resell it.
+
+The issue of indigenous knowledge (IK) poses a great challenge in terms of capturing, storage and distribution. Many societies in third-world countries lack the technicality processes of managing the IK.
+
+At his presentation at the XML 2005 conference, Connolly[6] displayed these two quotations regarding open data:
+
+"I want my data back." (Jon Bosak circa 1997)[citation needed]
+"I've long believed that customers of any application own the data they enter into it."[7] (This quote refers to Veen's own heart-rate data.)
+Major sources
+
+The State of Open Data, a 2019 book from African Minds
+Open data can come from any source. This section lists some of the fields that publish (or at least discuss publishing) a large amount of open data.
+
+In science
+Main article: Open science data
+The concept of open access to scientific data was institutionally established with the formation of the World Data Center system, in preparation for the International Geophysical Year of 1957–1958.[8] The International Council of Scientific Unions (now the International Council for Science) oversees several World Data Centres with the mandate to minimize the risk of data loss and to maximize data accessibility.[9]
+
+While the open-science-data movement long predates the Internet, the availability of fast, ubiquitous networking has significantly changed the context of Open science data, since publishing or obtaining data has become much less expensive and time-consuming.[10]
+
+The Human Genome Project was a major initiative that exemplified the power of open data. It was built upon the so-called Bermuda Principles, stipulating that: "All human genomic sequence information (…) should be freely available and in the public domain in order to encourage research and development and to maximise its benefit to society'.[11] More recent initiatives such as the Structural Genomics Consortium have illustrated that the open data approach can also be used productively within the context of industrial R&D.[12]
+
+In 2004, the Science Ministers of all nations of the Organisation for Economic Co-operation and Development (OECD), which includes most developed countries of the world, signed a declaration which essentially states that all publicly funded archive data should be made publicly available.[13] Following a request and an intense discussion with data-producing institutions in member states, the OECD published in 2007 the OECD Principles and Guidelines for Access to Research Data from Public Funding as a soft-law recommendation.[14]
+
+Examples of open data in science:
+
+The Dataverse Network Project – archival repository software promoting data sharing, persistent data citation, and reproducible research[15]
+data.uni-muenster.de – Open data about scientific artifacts from University of Muenster, Germany. Launched in 2011.
+linkedscience.org/data – Open scientific datasets encoded as Linked Data. Launched in 2011.
+In government
+See also: Open government and PSI Directive
+
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (May 2012) (Learn how and when to remove this template message)
+There are a range of different arguments for government open data.[16][17] For example, some advocates contend that making government information available to the public as machine readable open data can facilitate government transparency, accountability and public participation. "Open data can be a powerful force for public accountability—it can make existing information easier to analyze, process, and combine than ever before, allowing a new level of public scrutiny." [18] Governments that enable public viewing of data can help citizens engage within the governmental sectors and "add value to that data." [19]
+
+Some make the case that opening up official information can support technological innovation and economic growth by enabling third parties to develop new kinds of digital applications and services.
+
+Several national governments have created websites to distribute a portion of the data they collect. It is a concept for a collaborative project in municipal Government to create and organize culture for Open Data or Open government data.
+
+Additionally, other levels of government have established open data websites. There are many government entities pursuing Open Data in Canada. Data.gov lists the sites of a total of 40 US states and 46 US cities and counties with websites to provide open data; e.g. the state of Maryland, the state of California, US[20] and New York City[21].
+
+At the international level, the United Nations has an open data website that publishes statistical data from member states and UN agencies,[22] and the World Bank published a range of statistical data relating to developing countries.[23] The European Commission has created two portals for the European Union: the EU Open Data Portal which gives access to open data from the EU institutions, agencies and other bodies[24] and the PublicData portal that provides datasets from local, regional and national public bodies across Europe.[25]
+
+In October 2015, the Open Government Partnership launched the International Open Data Charter, a set of principles and best practices for the release of governmental open data formally adopted by seventeen governments of countries, states and cities during the OGP Global Summit in Mexico.[26]
+
+Arguments for and against
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Open data" – news · newspapers · books · scholar · JSTOR (May 2011) (Learn how and when to remove this template message)
+The debate on open data is still evolving. The best open government applications seek to empower citizens, to help small businesses, or to create value in some other positive, constructive way. Opening government data is only a way-point on the road to improving education, improving government, and building tools to solve other real world problems. While many arguments have been made categorically[citation needed], the following discussion of arguments for and against open data highlights that these arguments often depend highly on the type of data and its potential uses.
+
+Arguments made on behalf of open data include the following:
+
+"Data belong to the human race". Typical examples are genomes, data on organisms, medical science, environmental data following the Aarhus Convention
+Public money was used to fund the work and so it should be universally available.[27]
+It was created by or at a government institution (this is common in US National Laboratories and government agencies)
+Facts cannot legally be copyrighted.
+Sponsors of research do not get full value unless the resulting data are freely available.
+Restrictions on data re-use create an anticommons.
+Data are required for the smooth process of running communal human activities and are an important enabler of socio-economic development (health care, education, economic productivity, etc.).[28]
+In scientific research, the rate of discovery is accelerated by better access to data.[29]
+Making data open helps combat "data rot" and ensure that scientific research data are preserved over time.[30][31]
+It is generally held that factual data cannot be copyrighted.[32] However, publishers frequently add copyright statements (often forbidding re-use) to scientific data accompanying publications. It may be unclear whether the factual data embedded in full text are part of the copyright.
+
+While the human abstraction of facts from paper publications is normally accepted as legal there is often an implied restriction on the machine extraction by robots.
+
+Unlike open access, where groups of publishers have stated their concerns, open data is normally challenged by individual institutions.[citation needed] Their arguments have been discussed less in public discourse and there are fewer quotes to rely on at this time.
+
+Arguments against making all data available as open data include the following:
+
+Government funding may not be used to duplicate or challenge the activities of the private sector (e.g. PubChem).
+Governments have to be accountable for the efficient use of taxpayer's money: If public funds are used to aggregate the data and if the data will bring commercial (private) benefits to only a small number of users, the users should reimburse governments for the cost of providing the data.
+The revenue earned by publishing data can be used to cover the costs of generating and/or disseminating the data, so that the dissemination can continue indefinitely.
+The revenue earned by publishing data permits non-profit organisations to fund other activities (e.g. learned society publishing supports the society).
+The government gives specific legitimacy for certain organisations to recover costs (NIST in US, Ordnance Survey in UK).
+Privacy concerns may require that access to data is limited to specific users or to sub-sets of the data.
+Collecting, 'cleaning', managing and disseminating data are typically labour- and/or cost-intensive processes – whoever provides these services should receive fair remuneration for providing those services.
+Sponsors do not get full value unless their data is used appropriately – sometimes this requires quality management, dissemination and branding efforts that can best be achieved by charging fees to users.
+Often, targeted end-users cannot use the data without additional processing (analysis, apps etc.) – if anyone has access to the data, none may have an incentive to invest in the processing required to make data useful (typical examples include biological, medical, and environmental data).
+Relation to other open activities
+The goals of the Open Data movement are similar to those of other "Open" movements.
+
+Open access is concerned with making scholarly publications freely available on the internet. In some cases, these articles include open datasets as well.
+Open content is concerned with making resources aimed at a human audience (such as prose, photos, or videos) freely available.
+Open knowledge. Open Knowledge International argues for openness in a range of issues including, but not limited to, those of open data. It covers (a) scientific, historical, geographic or otherwise (b) Content such as music, films, books (c) Government and other administrative information. Open data is included within the scope of the Open Knowledge Definition, which is alluded to in Science Commons' Protocol for Implementing Open Access Data.[33]
+Open notebook science refers to the application of the Open Data concept to as much of the scientific process as possible, including failed experiments and raw experimental data.[34]
+Open-source software is concerned with the open-source licenses under which computer programs can be distributed and is not normally concerned primarily with data.
+Open educational resources are freely accessible, openly licensed documents and media that are useful for teaching, learning, and assessing as well as for research purposes.
+Open research/open science/open science data (linked open science) means an approach to open and interconnect scientific assets like data, methods and tools with linked data techniques to enable transparent, reproducible and transdisciplinary research.[35]
+Funders' mandates
+Several funding bodies which mandate Open Access also mandate Open Data. A good expression of requirements (truncated in places) is given by the Canadian Institutes of Health Research (CIHR):[36]
+
+to deposit bioinformatics, atomic and molecular coordinate data, experimental data into the appropriate public database immediately upon publication of research results.
+to retain original data sets for a minimum of five years after the grant. This applies to all data, whether published or not.
+Other bodies active in promoting the deposition of data as well as fulltext include the Wellcome Trust. An academic paper published in 2013 advocated that Horizon 2020 (the science funding mechanism of the EU, due to launch in 2014) should mandate that funded projects hand in their databases as "deliverables" at the end of the project, so that they can be checked for third party usability then shared.[37]
+
+Non-Open data
+Several mechanisms restrict access to or reuse of data (and several reasons for doing this are given above). They include:
+
+making data available for a charge.
+compilation in databases or websites to which only registered members or customers can have access.
+use of a proprietary or closed technology or encryption which creates a barrier for access.
+copyright forbidding (or obfuscating) re-use of the data, including the use of "no derivatives" requirements.
+patent forbidding re-use of the data (for example the 3-dimensional coordinates of some experimental protein structures have been patented).
+restriction of robots to websites, with preference to certain search engines.
+aggregating factual data into "databases" which may be covered by "database rights" or "database directives" (e.g. Directive on the legal protection of databases).
+time-limited access to resources such as e-journals (which on traditional print were available to the purchaser indefinitely).
+"webstacles", or the provision of single data points as opposed to tabular queries or bulk downloads of data sets.
+political, commercial or legal pressure on the activity of organisations providing Open Data (for example the American Chemical Society lobbied the US Congress to limit funding to the National Institutes of Health for its Open PubChem data).[38]
+See also
+Budapest Open Access Initiative
+Creative Commons license
+Data curation
+Data governance
+Data management
+Demand responsive transport
+Digital preservation
+International Open Data Day
+Linked Data and Linked Open Data
+Merton Thesis
+Open catalogue
+Open energy system databases
+Urban informatics
+Wikidata
+Open Icecat
+References
+ Auer, S. R.; Bizer, C.; Kobilarov, G.; Lehmann, J.; Cyganiak, R.; Ives, Z. (2007). "DBpedia: A Nucleus for a Web of Open Data". The Semantic Web. Lecture Notes in Computer Science. 4825. p. 722. doi:10.1007/978-3-540-76298-0_52. ISBN 978-3-540-76297-3.
+ Kitchin, Rob (2014). The Data Revolution. London: Sage. p. 49. ISBN 978-1-4462-8748-4.
+ Kassen, Maxat (1 October 2013). "A promising phenomenon of open data: A case study of the Chicago open data project". Government Information Quarterly. 30 (4): 508–513. doi:10.1016/j.giq.2013.05.012. ISSN 0740-624X.
+ See Open Definition home page and the full Open Definition
+ Science Commons
+ Connolly, Dan (16 November 2005). "Semantic Web Data Integration with hCalendar and GRDDL". W3C Talks and Presentations. XML Conference & Exposition 2005, Atlanta, Georgia, USA: W3C. p. 2. Retrieved 2 May 2015.
+ Veen, Jeffrey (2 November 2005). "Polar Heart Rate Monitors: Gimme my data!". A website by Jeffrey Veen.
+ Committee on Scientific Accomplishments of Earth Observations from Space, National Research Council (2008). Earth Observations from Space: The First 50 Years of Scientific Achievements. The National Academies Press. p. 6. doi:10.17226/11991. ISBN 978-0-309-11095-2. Retrieved 24 November 2010.
+ World Data System (27 September 2017). "Data Sharing Principles". www.icsu-wds.org. ICSU-WDS (International Council for Science - World Data Service). Retrieved 27 September 2017.
+ Vuong, Quan-Hoang (12 December 2017). "Open data, open review and open dialogue in making social sciences plausible". arXiv:1712.04801. Bibcode:2017arXiv171204801V. Retrieved 30 June 2018.
+ Human Genome Project, 1996. Summary of Principles Agreed Upon at the First International Strategy Meeting on Human Genome Sequencing (Bermuda, 25–28 February 1996)
+ Perkmann, Markus; Schildt, Henri (2015). "Open Data Partnerships between Firms and Universities: The Role of Boundary Organizations". Research Policy. 44 (5): 1133–1143. doi:10.1016/j.respol.2014.12.006.
+ OECD Declaration on Open Access to publicly funded data Archived 20 April 2010 at the Wayback Machine
+ OECD Principles and Guidelines for Access to Research Data from Public Funding
+ Dataverse Network Project
+ Gray, Jonathan (2014). "Towards a Genealogy of Open Data". Social Science Research Network (SSRN). doi:10.2139/ssrn.2605828.
+ Brito, Jerry. "Hack, Mash, & Peer: Crowdsourcing Government Transparency". Colum. Sci. & Tech. L. Rev. 119 (2008).
+ Yu, Harlan; Robinson, David G. (28 February 2012). "The New Ambiguity of 'Open Government'". Rochester, NY: Social Science Research Network. SSRN 2012489.
+ Robinson, David G.; Yu, Harlan; Zeller, William P.; Felten, Edward W. (1 January 2009). "Government Data and the Invisible Hand". Rochester, NY: Social Science Research Network. SSRN 1138083.
+ "data.ca.gov". data.ca.gov. Retrieved 7 May 2019.
+ Data, City of New York, NYC Open. "NYC Open Data". NYC OpenData. Retrieved 7 May 2019.
+ "UNdata". data.un.org. Retrieved 7 May 2019.
+ "World Bank Open Data | Data". data.worldbank.org. Retrieved 7 May 2019.
+ "Data.europa.eu". Retrieved 7 May 2019.
+ "Home | Open Data Portal". data.europa.eu. Retrieved 7 May 2019.
+ "The Open Data Charter: A Roadmap for Using a Global Resource". The Huffington Post. 27 October 2015. Retrieved 29 October 2015.
+ On the road to open data, by Ian Manocha
+ "Big Data for Development: From Information- to Knowledge Societies", Martin Hilbert (2013), SSRN Scholarly Paper No. ID 2205145. Rochester, NY: Social Science Research Network; http://papers.ssrn.com/abstract=2205145
+ How to Make the Dream Come True argues in one research area (Astronomy) that access to open data increases the rate of scientific discovery.
+ Khodiyar, Varsha (19 May 2014). "Stopping the rot: ensuring continued access to scientific data, irrespective of age". F1000 Research. F1000. Retrieved 11 March 2015.
+ Magee AF, May MR, Moore BR (24 October 2014). "The dawn of open access to phylogenetic data". PLOS ONE. 9 (10): e110268. arXiv:1405.6623. Bibcode:2014PLoSO...9k0268M. doi:10.1371/journal.pone.0110268. PMC 4208793. PMID 25343725.
+ Towards a Science Commons includes an overview of the basis of openness in science data.
+ Protocol for Implementing Open Access Data
+ http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html creation of term
+ Kauppinen, T.; Espindola, G. M. D. (2011). "Linked Open Science-Communicating, Sharing and Evaluating Data, Methods and Results for Executable Papers". Procedia Computer Science. 4: 726–731. doi:10.1016/j.procs.2011.04.076.
+ SPARC-OpenData@arl.org Mailing List Archive
+ Galsworthy, M.J. & McKee, M. (2013). Europe's "Horizon 2020" science funding programme: How is it shaping up? Journal of Health Services Research and Policy. doi: 10.1177/1355819613476017
+ Review of history and positions by the University of California
+External links
+Open Data – An Introduction – from the Open Knowledge Foundation
+Video of Tim Berners-Lee at TED (conference) 2009 calling for "Raw Data Now"
+Six minute Video of Tim Berners-Lee at TED (conference) 2010 showing examples of open data
+G8 Open Data Charter
+Towards a Genealogy of Open Data – research paper tracing different historical threads contributing to current conceptions of open data.
+What is open data - an accessible summary of open data from the Open Data Institute
+Open Source Malaria
+Open Source Pharma
+Open Source Tuberculosis
+Open Data Inception - 2600+ Open Data Portals Around the World
+Curated list of 50+ USA federal ArcGIS servers with open data
+Curated list of 150+ USA state ArcGIS servers with open data
+Global Open Data Index
+International Open Data Conference
+vte
+Open data
+vte
+Free-culture and open-source movements
+vte
+Massive open online education
+Categories: Open dataFree culture movement
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+In other projects
+Wikimedia Commons
+Wikibooks
+Print/export
+Create a book
+Download as PDF
+Printable version
+
