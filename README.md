@@ -2,10 +2,6 @@
 
 ## Master in City & Technology
 
-# Programming with python 2020-2021
-Repository for the MaCT course on digital tools and big data - Part one. Academic year 2019-2020
-
-
 ## Syllabus
 The course has seven sessions in which students directly interact with large data sets in practical sessions to develop the technical skills highly demanded in big data projects. The sessions start by discovering big data sources, performing descriptive analytics and plotting different data sets to identify trends and correlation. The course moves towards spatial and temporal dimensions of big data sets and the way to graphically represent features from these multiple dimensions. The last part of the course deals with data management tasks such as splitting, aggregating, merging and summarising datasets to improve analysis and visualization. 
 
