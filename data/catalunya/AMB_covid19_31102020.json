@@ -1,0 +1,261 @@
+{
+	"num": 36,
+	"count": 36,
+	"start": 1,
+	"offset": 500,
+	"isCursor": false,
+	"items": [
+		{
+			"municipi" : "badalona",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 8326,
+			"sospitosos": 52209,
+			"avui" : 134
+		},
+		{
+			"municipi" : "badia_del_valles",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 381,
+			"sospitosos": 2836,
+			"avui" : 4
+		},
+		{
+			"municipi" : "barbera_del_valles",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 933,
+			"sospitosos": 6950,
+			"avui" : 9
+		},
+		{
+			"municipi" : "barcelona",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 61573,
+			"sospitosos": 329928,
+			"avui" : 970
+		},
+		{
+			"municipi" : "begues",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 232,
+			"sospitosos": 1629,
+			"avui" : 1
+		},
+		{
+			"municipi" : "castellbisbal",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 3137,
+			"sospitosos": 2444,
+			"avui" : 14
+		},
+		{
+			"municipi" : "castelldefels",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 1566,
+			"sospitoso": 13013,
+			"avui" : 30
+		},
+		{
+			"municipi" : "cerdanyola_del_valles",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 1878,
+			"sospitosos": 12132,
+			"avui" : 12
+		},
+		{
+			"municipi" : "cervello",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 227,
+			"sospitosos": 1619,
+			"avui" : 5
+		},
+		{
+			"municipi" : "corbera_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 403,
+			"sospitosos": 3056,
+			"avui" : 2
+		},
+		{
+			"municipi" : "cornella_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 3698,
+			"sospitosos": 19382,
+			"avui" : 26
+		},
+		{
+			"municipi" : "el_papiol",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 97,
+			"sospitosos": 705,
+			"avui" : 3
+		},
+		{
+			"municipi" : "el_prat_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 2051,
+			"sospitosos": 12452,
+			"avui" : 38
+		},
+		{
+			"municipi" : "esplugues_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 2028,
+			"sospitosos": 9657,
+			"avui" : 10
+		},
+		{
+			"municipi" : "gava",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 1415,
+			"sospitosos": 9259,
+			"avui" : 9
+		},
+		{
+			"municipi" : "l_hospitalet_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 14521,
+			"sospitosos": 60148,
+			"avui" : 182
+		},
+		{
+			"municipi" : "la_palma_de_cervello",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 65,
+			"sospitosos": 492,
+			"avui" : 1
+		},
+		{
+			"municipi" : "molins_de_rei",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 666,
+			"sospitosos": 4765,
+			"avui" : 8
+		},
+		{
+			"municipi" : "montcada_i_reixac",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 1117,
+			"sospitosos": 7437,
+			"avui" : 23
+		},
+		{
+			"municipi" : "montgat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 343,
+			"sospitosos": 2465,
+			"avui" : 14
+		},
+		{
+			"municipi" : "palleja",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 352,
+			"sospitosos": 2505,
+			"avui" : 4
+		},
+		{
+			"municipi" : "ripollet",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 1113,
+			"sospitosos": 8819,
+			"avui" : 15
+		},
+		{
+			"municipi" : "sant_adria_de_besos",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 1550,
+			"sospitosos": 10137,
+			"avui" : 37
+		},
+		{
+			"municipi" : "sant_andreu_de_la_barca",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 805,
+			"sospitosos": 6159,
+			"avui" : 30
+		},
+		{
+			"municipi" : "sant_boi_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 3238,
+			"sospitosos": 21854,
+			"avui" : 59
+		},
+		{
+			"municipi" : "sant_climent_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 124,
+			"sospitosos": 937,
+			"avui" : 4
+		},
+		{
+			"municipi" : "sant_cugat_del_valles",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 2372,
+			"sospitosos": 20600,
+			"avui" : 46
+		},
+		{
+			"municipi" : "sant_feliu_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 1307,
+			"sospitosos": 9056,
+			"avui" : 17
+		},
+		{
+			"municipi" : "sant_joan_despi",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 1148,
+			"sospitosos": 7094,
+			"avui" : 19
+		},
+		{
+			"municipi" : "sant_just_desvern",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 592,
+			"sospitosos": 3759,
+			"avui" : 6
+		},
+		{
+			"municipi" : "sant_vicenc_dels_horts",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 694,
+			"sospitosos": 5816,
+			"avui" : 12
+		},
+		{
+			"municipi" : "santa_coloma_de_cervello",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 296,
+			"sospitosos": 1818,
+			"avui" : 8
+		},
+		{
+			"municipi" : "santa_coloma_de_gramenet",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 5573,
+			"sospitosos": 25981,
+			"avui" : 91
+		},
+		{
+			"municipi" : "tiana",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 308,
+			"sospitosos": 1924,
+			"avui" : 4
+		},
+		{
+			"municipi" : "torrelles_de_llobregat",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulat_pcr": 148,
+			"sospitosos": 1204,
+			"avui" : 1
+		},
+		{
+			"municipi" : "viladecans",
+			"numero_fase" : "mesures2aOnada",
+			"positius_acumulats_pcr": 2303,
+			"sospitosos": 15044,
+			"avui" : 33
+		}
+	]
+}
