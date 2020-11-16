@@ -53,6 +53,7 @@ plt.show()
 # try to customise axis
 #plt.xticks(np.arange(0, 2020, 100))
 plt.yticks(np.arange(0,175000, 50000))
+plt.xticks([1900, 1950, 2000, 2020])
 
 
 # There are different ways to represent data density,
