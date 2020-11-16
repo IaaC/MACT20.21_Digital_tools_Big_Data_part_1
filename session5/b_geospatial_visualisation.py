@@ -26,8 +26,9 @@ import mapclassify
 import pyproj
 from pyproj import Proj
 
-# We read the file for addresses data
-address = pd.read_csv('../data/luxembourg/addresses.csv')
+# We read the file for population data
+mplts = geopandas.read_file('../data/luxembourg/communes4326.geojson')
+pop = pd.read_csv('../data/luxembourg/population.csv', skiprows=[2,3])
 
 # In order to get a projected view of our plots, we need to change the CRS first
 mplts = mplts.to_crs({'init': 'epsg:2169'})
