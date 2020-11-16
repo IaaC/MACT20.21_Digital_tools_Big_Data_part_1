@@ -23,10 +23,17 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-address = pd.read_csv('../data/luxembourg/addresses.csv', error_bad_lines=False)
+address = pd.read_csv('../data/luxembourg/addresses.csv', delimiter=';', error_bad_lines=False)
 
 
 # A simple way to extract data based on column names
 slice_add = address[['rue', 'numero', 'lat_wgs84', 'lon_wgs84']]
 
-print(slice_add.head(slice_add))
+print('An example of a sliced dataframe')
+print(slice_add.head())
+
+# A slice operation based on conditionals
+slice_add_1 = address[address['localite'] == 'Olm']
+
+print('An example of a sliced dataframe based on conditionals')
+print(slice_add_1.head())
