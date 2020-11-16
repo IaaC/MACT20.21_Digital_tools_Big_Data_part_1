@@ -40,14 +40,17 @@ sns.set_style('ticks')
 # Area vs. population
 # You can also try removing the confidence interval
 # sns.regplot(pop_cat['area'], pop_cat['population'], ci=None)
-sns.regplot(pop_cat['area'], pop_cat['population'])
+sns.regplot(x=pop_cat['area'], y=pop_cat['population'])
 sns.despine()
+plt.show()
 
-sns.regplot(pop_cat['area'], pop_cat['density'])
+sns.regplot(x=pop_cat['area'], y=pop_cat['density'])
 sns.despine()
+plt.show()
 
-sns.regplot(pop_cat['population'], pop_cat['density'])
+sns.regplot(x=pop_cat['population'], y=pop_cat['density'])
 sns.despine()
+plt.show()
 
 # rate of growth
 

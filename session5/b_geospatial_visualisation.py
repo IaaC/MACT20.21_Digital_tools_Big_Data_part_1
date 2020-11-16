@@ -30,6 +30,9 @@ from pyproj import Proj
 mplts = geopandas.read_file('../data/luxembourg/communes4326.geojson')
 pop = pd.read_csv('../data/luxembourg/population.csv', skiprows=[2,3])
 
+# In order to get a projected view of our plots, we need to change the CRS first
+mplts = mplts.to_crs({'init': 'epsg:2169'})
+
 # PRINT OUT a basic plot with municipalities
 ax = mplts.plot()
 ax.set_title("Luxembourg Municipalities")
