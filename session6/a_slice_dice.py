@@ -23,7 +23,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-address = pd.read_csv('../data/luxembourg/addresses.csv', error_bad_lines=)
+address = pd.read_csv('../data/luxembourg/addresses.csv', error_bad_lines=False)
+
 
 # A simple way to extract data based on column names
 slice_add = address[['rue', 'numero', 'lat_wgs84', 'lon_wgs84']]
